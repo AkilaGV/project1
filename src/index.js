@@ -8,7 +8,7 @@ const root=ReactDOM.createRoot(document.getElementById("root"));
 
 function Form(){
 return (
-<div className="bg">
+<div className="bg m-2">
   
       <div className="flex flex-row justify-center items-center mt-2"> 
         <h1 className="font-medium ">Internship Registration</h1>
