@@ -10,7 +10,7 @@ function Form(){
 return (
 <div>
   
-      <div className="flex flex-row justify-center items-center mt-2"> 
+      <div className="flex flex-row justify-center items-center mt-3"> 
         <h1 className="font-medium ">Internship Registration</h1>
         <img src={img1} alt="" style={{marginLeft:"20px"}}/>
       </div>
