@@ -16,7 +16,7 @@ return (
       </div>
      
       
-  <div className="flex flex-column justify-center mt-2 text-sm ">
+      <div className="flex flex-column justify-center mt-2 text-sm ">
     
       
       
@@ -131,10 +131,10 @@ return (
         </table>
        </form>
        
-  </div>
-  <div className="flex flex-row justify-center items-center mt-2 mb-2">
+       </div>
+       <div className="flex flex-row justify-center items-center mt-2 mb-2">
       <button>Register</button>
-  </div>
+      </div>
 </div>)
   
   
