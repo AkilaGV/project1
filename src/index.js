@@ -16,7 +16,7 @@ return (
       </div>
      
       
-      <div className="flex flex-column justify-center mt-2 text-sm ">
+      <div className="flex flex-column justify-center mt-2 text-sm ml-2">
     
       
       
